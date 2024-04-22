@@ -1,0 +1,7 @@
+# .gitignore
+*~
+*.bak
+*.kicad_pcb-bak
+*.bck
+*.sch-bak
+avdisplay-cape-backups/
